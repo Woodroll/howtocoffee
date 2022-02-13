@@ -1,0 +1,12 @@
+{
+  "name": "howtocoffee",
+  "version": "1.0.0",
+  "description": "Coffee Instructions Website",
+  "main": "index.js",
+  "repository": "https://github.com/Woodroll/howtocoffee.git",
+  "author": "Jake <yellowballoonx@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.5.1"
+  }
+}
